@@ -37,7 +37,7 @@
         <jackson-databind.version>2.13.0</jackson-databind.version>
         <junit.jupiter.version>5.8.1</junit.jupiter.version>
         <moshi.version>1.12.0</moshi.version>
-        <okhttp.version>4.9.0</okhttp.version>
+        <okhttp.version>4.9.2</okhttp.version>
         <okio.version>2.9.0</okio.version>
         <slf4j-simple.version>1.7.30</slf4j-simple.version>
         <undertow.version>2.2.12.Final</undertow.version>
