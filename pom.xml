@@ -43,7 +43,7 @@
         <undertow.version>2.2.12.Final</undertow.version>
 
         <maven-project.version>2.2.1</maven-project.version>
-        <maven.version>3.8.1</maven.version>
+        <maven.version>3.9.8</maven.version>
         <version.annotations.plugin>3.6.0</version.annotations.plugin>
         <version.dokka.plugin>0.9.17</version.dokka.plugin>
         <version.formatter.plugin>2.11.0</version.formatter.plugin>
